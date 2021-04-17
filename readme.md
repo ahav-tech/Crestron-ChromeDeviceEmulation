@@ -2,7 +2,7 @@
 
 ## Notes ##
 
-A manual export with the portion of my Chrome configuration that has the Crestron touchpanel emulation details (from Crestron HTML5 microsite). I do not know the User Agent String for the panels so I left this blank for now.
+A manual export with the portion of my Windows Chrome configuration that has the Crestron touchpanel emulation details (from Crestron HTML5 microsite). I do not know the User Agent String for the panels so I left this blank for now.
 
 You could try copying these into your configuration if you are game...
 
@@ -17,6 +17,6 @@ I don't have any devices to test with so I don't know if they match at all; I am
 
 ## Details ##
 
-Copied from: C:\\Users\\_user_\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\preferences
+Copied from: C:\\Users\\_user_\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences
 
-JSON path in file: "devtools" > "preferences" > "customEmulatedDeviceList"
+Path in file: "devtools" > "preferences" > "customEmulatedDeviceList"
