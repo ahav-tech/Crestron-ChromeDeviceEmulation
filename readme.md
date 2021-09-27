@@ -13,7 +13,7 @@ There are two files:
 
 I'm not sure why there are two blank devices in my configuration but they don't show up in Chrome. 
 
-I don't have any devices to test with so I don't know if they match at all; I am just going off the website.
+I don't have any devices to test with so I don't know if they match at all; I am just going off the Crestron HTML5 User Interface website @ <https://www.crestron.com/developer>.
 
 ## Details ##
 
